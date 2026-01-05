@@ -475,13 +475,9 @@
 - **최종 결과 및 Insight**
     - **최종 결과**
         
-        ![Public score](attachment:b72ff20d-1001-41ad-907b-92270d6fd2e9:image.png)
+        Public score: 1.75449
         
-        Public score
-        
-        ![Private score](attachment:5d3ac602-5287-42bc-8557-0a5c267c9095:image.png)
-        
-        Private score
+        Private score: 1.98977
         
     - **다른 조의 아이디어**
         
